@@ -1,4 +1,4 @@
-# 🚀 Task 1: Collapsible Sidebar – ELEVVO Front-End Internship
+# 🚀 Level 1-Task 1: Collapsible Sidebar – ELEVVO Front-End Internship
 
 This repository contains my solution for **Task 1: Build a Collapsible Sidebar**, submitted as part of my **Front-End Web Development Internship** at **LVO (Elevvo)**.
 
